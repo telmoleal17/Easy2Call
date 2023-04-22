@@ -1,4 +1,4 @@
-# mockups
+# Easy2Call
 
 A new Flutter project.
 
